@@ -2,6 +2,7 @@
 <div align="center">
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJung98)](https://github.com/JayJung98/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JayJung98&theme=vue-dark)](https://git.io/streak-stats)
 
