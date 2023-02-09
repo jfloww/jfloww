@@ -11,8 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayjungnote/)  [![Tistory Name Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jayjung98.github.io/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehoon_jung98/)  
 </div>
 
-
-
 <!--
 **JayJung98/JayJung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
