@@ -1,7 +1,6 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=JayJung98&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=JayJung98&layout=compact&theme=dracula)
+<!-- https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only -->
 
 ## 🙋‍♂️ Personal Info
 - Jaehoon (Jay) Jung
