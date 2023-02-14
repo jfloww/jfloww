@@ -8,6 +8,12 @@
 - Stony Brook University (SBU)
 - Applied Mathematics and Statistics (AMS) Class of 2022
 - hoon7589@gmail.com
+
+## ✏️ Blog  - <a href="https://jayjung98.github.io">Here</a>
+<!-- [![image](https://user-images.githubusercontent.com/40573259/153624815-81711042-78c9-4c50-b358-55fde89ed6d7.png)](https://) -->
+
+<!-- ## 📝 Portfolio Website - <a href="">Here</a>
+[![image](https://user-images.githubusercontent.com/40573259/153706944-9629da7f-6c01-4e9f-bef8-a1e61c6940ae.png)](https://) -->
 <!--
 🔗 언급된 사이트들
 드림코딩 리파지토리 ⇢  https://github.com/dream-ellie
