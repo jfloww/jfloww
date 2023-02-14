@@ -4,12 +4,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=JayJung98&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJung98&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--&hide=jupyter%20notebook -->
-## 🙋‍♂️ Personal Info
+## Personal Info
 - Jaehoon (Jay) Jung
 - Stony Brook University (SBU)
 - Applied Mathematics and Statistics (AMS) Class of 2022
 - hoon7589@gmail.com
-## 🔨 Technology Stacks
+## Technology Stacks
 <!-- - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
@@ -41,7 +41,7 @@
 <span><img src="https://img.shields.io/badge/Confluence-0052cc?style=flat&logo=confluence&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/> -->
-## ✏️ Blog  - <a href="https://jayjung98.github.io">Here</a>
+## Blog  - <a href="https://jayjung98.github.io">Here</a>
 <!-- [![image](https://user-images.githubusercontent.com/40573259/153624815-81711042-78c9-4c50-b358-55fde89ed6d7.png)](https://) -->
 
 ## LinkedIn - <a href="https://www.linkedin.com/in/jayjungnote/">Here</a>
