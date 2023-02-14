@@ -14,8 +14,9 @@
 
 ## LinkedIn - <a href="https://www.linkedin.com/in/jayjungnote/">Here</a>
 
-<!-- ## 📝 Portfolio Website - <a href="https://www.linkedin.com/in/jayjungnote/">Here</a>
-[![image](https://user-images.githubusercontent.com/40573259/153706944-9629da7f-6c01-4e9f-bef8-a1e61c6940ae.png)](https://) -->
+## Portfolio - 
+
+
 <!--
 🔗 언급된 사이트들
 드림코딩 리파지토리 ⇢  https://github.com/dream-ellie
