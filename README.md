@@ -6,8 +6,7 @@
 <!--&hide=jupyter%20notebook -->
 ## Personal Info
 - Jaehoon (Jay) Jung
-- Stony Brook University (SBU)
-- Applied Mathematics and Statistics (AMS) Class of 2022
+- Stony Brook University (SBU) Class of 2022
 - hoon7589@gmail.com
 ## Technology Stacks
 <!-- - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
