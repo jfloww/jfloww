@@ -11,5 +11,6 @@
 ## Technology Stacks : JavaScript, Python, Java, R, SQL, HTML, CSS, TypeScript, SAS, React, Git, GitHub
 
 ## LinkedIn - <a href="https://www.linkedin.com/in/jayjungnote/">Here</a>
+## Blog - <ahref="https://jayjung98.github.io/">Here</a>
 
 ## Portfolio - 
