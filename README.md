@@ -8,7 +8,15 @@
 - Jaehoon (Jay) Jung
 - Stony Brook University (SBU) Class of 2022
 - hoon7589@gmail.com
-## Technology Stacks : JavaScript, Python, Java, R, SQL, HTML, CSS, TypeScript, SAS, React, Git, GitHub
+## Technology Stacks : 
+Frontend: 
+Backend:
+Android:
+IOS:
+Version Control:
+Deployment:
+JavaScript, Python, Java, R, SQL, HTML, CSS, TypeScript, SAS, React, Git, GitHub, Oracle DB, MySQL
+
 
 ## LinkedIn - <a href="https://www.linkedin.com/in/jayjungnote/">Here</a>
 ## Blog - <a href="https://jayjung98.github.io/">Here</a>
