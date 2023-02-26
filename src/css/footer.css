@@ -1,0 +1,9 @@
+.footer_test {
+    color: white;
+    font-size: small;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

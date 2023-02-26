@@ -1,0 +1,68 @@
+.list {
+    margin-top: 30px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: white;
+    background-color: black;
+  }
+  .kim {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20rem;
+    color: white;
+    background-color: black;
+  }
+  .shin {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 2rem;
+    color: white;
+    background-color: black;
+  }
+  .twoJung {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 2rem;
+    color: white;
+    background-color: black;
+  }
+  .App-header {
+    background-color: #000000;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-color: black;
+  }
+  .president_img {
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 400px;
+    height: 500px;
+    float: left;
+  }
+  .pres_text {
+    margin-top: 2rem;
+    font-family: monospace;
+  }
+  .gallary_img {
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 350px;
+    height: 420px;
+  }
