@@ -7,7 +7,7 @@
 
 ## Personal Info
 - <a href="https://www.stonybrook.edu/">Stony Brook University </a>Class of 2022 <br>
-- hoon7589@gmail.com
+- hoon7589@gmail.com <br>
 Blog: <a href="https://jfloww.github.io/">Here</a> <br>
 Portfolio: <br>
 LinkedIn: <a href="https://www.linkedin.com/in/jfloww/">Here</a> <br>
