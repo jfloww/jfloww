@@ -1,6 +1,7 @@
 # Welcome to my GitHub
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jfloww&theme=algolia)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfloww&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technology Stacks
 - HTML, CSS, JavaScript, React, Python, Git, GitHub, SAS, R, SQL, Oracle DB, MySQL, MsAccess
 
@@ -10,3 +11,4 @@
 - Blog: <a href="https://jfloww.github.io/">Here</a> <br>
 - Portfolio: <br>
 - LinkedIn: <a href="https://www.linkedin.com/in/jfloww/">Here</a> <br>
+- instagram: <br>
