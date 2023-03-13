@@ -2,7 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jfloww&theme=algolia)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfloww&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ## Technology Stacks
-- HTML, CSS, JavaScript, React, Python, Git, GitHub, SAS, R, MySQL, Oracle DB
+- HTML, CSS, JavaScript, React, Python, Git, GitHub, SAS, R, SQL, Oracle DB, MySQL, MsAccess
 
 ## Personal Info
 - <a href="https://www.stonybrook.edu/">Stony Brook University </a>Class of 2022 <br>
