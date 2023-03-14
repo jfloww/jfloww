@@ -11,4 +11,4 @@
 - Blog: <a href="https://jfloww.github.io/">Here</a> <br>
 - Portfolio: <br>
 - LinkedIn: <a href="https://www.linkedin.com/in/jfloww/">Here</a> <br>
-- instagram: <br>
+- instagram: <a href="https://www.instagram.com/jaehoon_jung98/">Here</a><br>
