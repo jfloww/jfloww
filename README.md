@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
 ## Technology Stacks
-- HTML, CSS, JavaScript, React, Python, Java, Git, GitHub, SAS, R, SQL, Oracle DB, MySQL, MsAccess
+- Node, HTML, CSS, JavaScript, React, Python, Java, Git, GitHub, SAS, R, SQL, Oracle DB, MySQL, MsAccess
 
 ## Personal Info
 - <a href="https://www.stonybrook.edu/">Stony Brook University </a>Class of 2022 <br>
