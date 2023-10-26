@@ -1,10 +1,10 @@
 # Welcome to my GitHub
 
 ## Technology Stacks
-- Node, HTML, CSS, JavaScript, React, Python, Java, Git, GitHub, SAS, R, SQL, Oracle DB, MySQL, MsAccess
+- TypeScript, Vue, Node, SQL, HTML, CSS, JavaScript, React, Python, Java, Git, SAS, R, Oracle DB, MySQL, MsAccess
 
 ## Personal Info
-- <a href="https://www.stonybrook.edu/">Stony Brook University </a>Class of 2022 <br>
+- <a href="https://www.stonybrook.edu/">B.S. at Stony Brook University </a>Class of 2022 <br>
 - hoon7589@gmail.com <br>
 - Blog: <a href="https://jfloww.github.io/">Here</a> <br>
 - Portfolio: In progressing<br>
