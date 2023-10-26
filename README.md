@@ -4,6 +4,7 @@
 - TypeScript, Vue, Node, SQL, HTML, CSS, JavaScript, React, Python, Java, Git, SAS, R, Oracle DB, MySQL, MsAccess
 
 ## Personal Info
+- M.S. at <a href="https://www.gatech.edu/">Georgia Tech</a>
 - B.S. at <a href="https://www.stonybrook.edu/">Stony Brook University</a>
 - hoon7589@gmail.com <br>
 - Blog: <a href="https://jfloww.github.io/">Here</a> <br>
