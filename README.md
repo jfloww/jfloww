@@ -6,8 +6,7 @@
 ## Personal Info
 - M.S. at <a href="https://www.gatech.edu/">Georgia Tech</a>
 - B.S. at <a href="https://www.stonybrook.edu/">Stony Brook University</a>
-- Blog: <a href="https://www.jfloww.github.io/">Here</a><br>
-- Portfolio: In progress<br>
+- Portfolio: <a href="https://www.jfloww.github.io](https://jfloww.vercel.app/">Here</a><br>
 - LinkedIn: <a href="https://www.linkedin.com/in/jfloww/">Here</a> <br>
 - Instagram: <a href="https://www.instagram.com/jaehoon_jung98/">Here</a><br>
 - Contact: hoon7589@gmail.com <br>
